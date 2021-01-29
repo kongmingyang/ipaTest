@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hopeEdu.myriadSchool</string>
+				<string>ZDXF.Monitoring.com</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>院校通</string>
+				<string>云安家</string>
 			</dict>
 		</dict>
 	</array>
